@@ -1,3 +1,10 @@
+#Melanie Molen's first CS193 Lab
+###My favorite things about CS193
+-I know people in this class
+-The instructors seem cool
+-There aren't quizzes
+-Lawson is really close to my previous class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -26,6 +33,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 Testing **testing** _testing_ `testing`
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
