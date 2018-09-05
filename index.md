@@ -1,9 +1,9 @@
-#Melanie Molen's first CS193 Lab
-###My favorite things about CS193
--I know people in this class
--The instructors seem cool
--There aren't quizzes
--Lawson is really close to my previous class
+# Melanie Molen's first CS193 Lab
+### My favorite things about CS193
+- I know people in this class
+- The instructors seem cool
+- There aren't quizzes
+- Lawson is really close to my previous class
 
 ## Welcome to GitHub Pages
 
